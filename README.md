@@ -28,4 +28,6 @@ The example plugin adds a simple UI to enter a latitude and longitude, then plac
 1. Enter **Latitude** and **Longitude** into the provided text fields.  
    - Use `,` as the decimal separator (e.g. `57.234567`).  
 2. Click **Set Marker**.  
-3. A red marker will appear on the Mission Planner map at the given position. 
+3. A red marker will appear on the Mission Planner map at the given position.
+
+![Demo of plugin](demo.gif)
