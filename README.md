@@ -1,8 +1,9 @@
 # MissionPlanner Plugin Example
 
 This repository contain **toy plugins** for [Mission Planner](https://ardupilot.org/planner/), showing how to extend its functionality with C#.  
-MapMarker.cs: The example plugin adds a simple UI to enter a latitude and longitude, then places a marker on the map.
-customWP.cs: The example plugin preloaded waypoints within the planner menu.
+**MapMarker.cs**: The example plugin adds a simple UI to enter a latitude and longitude, then places a marker on the map.
+
+**customWP.cs**: The example plugin preloaded waypoints within the planner menu.
 
 ---
 
